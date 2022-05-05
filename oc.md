@@ -57,3 +57,13 @@ dispatch_source_set_event_handler(self.bweResolutionsExecutor, ^{
 dispatch_resume(Executor);
 //启动定时器
 ```
+
+## NSURLSession
+
+ios 目前用来发送网络请求的类
+使用方法可以参考这篇博客，讲的是真的不错
+[NSURLSession攻略](https://zhuanlan.zhihu.com/p/231101874)、
+
+
+
+
