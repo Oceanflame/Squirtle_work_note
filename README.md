@@ -8,5 +8,5 @@ content:
 [objc](./oc.md) 
 
 
-Continually updated
+Continually updating
 
