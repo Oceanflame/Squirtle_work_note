@@ -7,7 +7,8 @@ content:
 [ios端相关内容](./ios.md)  
 [objective-c](./oc.md)  
 [音视频开发](./video_audio.md)  
-[算法笔记](./algorithm.md)
+[算法笔记](./algorithm.md)  
+[c++相关内容](./c++.md)
 
 
 Continually updating
