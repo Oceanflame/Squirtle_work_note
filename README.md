@@ -5,7 +5,8 @@ content:
 
 [git相关内容和常见命令](./git.md)  
 [ios端相关内容](./ios.md)  
-[objc](./oc.md) 
+[objective-c](./oc.md) 
+[音视频开发](./video_audio.md)
 
 
 Continually updating
