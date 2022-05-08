@@ -102,6 +102,21 @@ git checkout master
 ```
 如果加了-b参数，会直接从当前分支迁出一个新分支，如果分支名已存在会创建失败
 
+7.git add
+将内容添加到本地的暂存区，在没有git commit 前，修改的内容都会留在暂存区内
+```shell
+git add ./dev/  //add 后面跟着的是修改的文件路径，如果是文件夹就是文件夹内的全部文件
+```
 
+8.git commit 
+将本地暂存区内容统一在本地分支上算作一次提交
+每一次的commit都有为唯一标识的哈斯值作为记录，用来进行其他处理
+```shell
+git commit -m "update master"  //-m表示对这次提交的描述，后面的引号为描述内容
+```
+
+9.git rebase 
+rebase 表示变基操作，用法较多
+1>设定两个分支，master和dev，其中dev是由master迁出来的，之后dev又进行了其他的更新，这时候如果master也进行更新
 
 
