@@ -10,6 +10,7 @@ content:
 [算法笔记](./algorithm.md)  
 [c++相关内容](./c++.md)  
 [微信小程序开发](./wxdevloper.md)
+[跨平台开发](./multiplatform_develop.md)
 
 
 Continually updating
